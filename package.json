@@ -1,0 +1,23 @@
+{
+  "name": "curso-javascript-projeto-usuarios-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hcodebr/curso-javascript-projeto-usuarios-server.git"
+  },
+  "author": "Hcode Treinamentos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcodebr/curso-javascript-projeto-usuarios-server/issues"
+  },
+  "homepage": "https://github.com/hcodebr/curso-javascript-projeto-usuarios-server#readme"
+}
